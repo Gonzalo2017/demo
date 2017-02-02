@@ -14,7 +14,8 @@ namespace proyecto.Areas.Admin.Controllers
     {
         private Experiencia experiencia = new Experiencia();
 
-        // GET: Admin/Experiencia
+        // GET: Admin/Experienci
+        //mas comentarios
         public ActionResult Index(int tipo = 1)
         {
             ViewBag.tipo = tipo;
