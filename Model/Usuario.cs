@@ -43,7 +43,7 @@ namespace Model
 
         [Column(TypeName = "text")]
         public string Direccion { get; set; }
-
+        //Demo informcion 
         [StringLength(50)]
         public string Ciudad { get; set; }
 
