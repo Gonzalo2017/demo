@@ -1,0 +1,5 @@
+C:\Users\Luis Alas\Documents\Visual Studio 2015\Projects\proyecto\Helper\bin\Debug\Helper.dll
+C:\Users\Luis Alas\Documents\Visual Studio 2015\Projects\proyecto\Helper\bin\Debug\Helper.pdb
+C:\Users\Luis Alas\Documents\Visual Studio 2015\Projects\proyecto\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+C:\Users\Luis Alas\Documents\Visual Studio 2015\Projects\proyecto\Helper\obj\Debug\Helper.dll
+C:\Users\Luis Alas\Documents\Visual Studio 2015\Projects\proyecto\Helper\obj\Debug\Helper.pdb
